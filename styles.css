@@ -1,0 +1,40 @@
+/* Vibrant purple + neon green theme */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a001f;
+    color: #e0ffef;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: linear-gradient(90deg, #6a0dad, #00ff99);
+    padding: 20px;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+}
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+h2 {
+    color: #00ff99;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #6a0dad;
+    padding: 10px;
+    color: #e0ffef;
+    margin-top: 30px;
+}
+
+strong {
+    color: #00ff99;
+}
